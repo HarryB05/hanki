@@ -1,0 +1,13 @@
+{
+  "flashcards": {
+    "csvFile": "/flashcards.csv",
+    "name": "Algorithms & Data Structures",
+    "description": "Fundamental algorithms, sorting, searching, and data structures concepts",
+    "category": "Computer Science",
+    "colour": "blue",
+    "maxStreak": 12,
+    "tags": [
+      "Year 2"
+    ]
+  }
+}
